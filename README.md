@@ -25,4 +25,6 @@ Key Features:
 
 Built with VS Code using Flutter SDK, this project demonstrates Dart programming fundamentals and memory game mechanics.
 
-<img width="960" height="540" alt="image" src="" />
+<img width="960" height="540" alt="image" src="intial page.png" />
+
+<img width="960" height="540" alt="image" src="gameflow.JPG" />
